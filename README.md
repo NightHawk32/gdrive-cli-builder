@@ -197,4 +197,4 @@ On unix systems run `chmod +x {filename}` after download to make the binary exec
 - Văn Lộc Võ - *Add support to compile for mips/mipsle architecture* - [vvanloc](https://github.com/vvanloc)
 
 ### Thanks to
-[prasmussen](https://github.com/prasmussen) and [all](https://github.com/gdrive-org/gdrive/graphs/contributors) GDrive CLI contributor for creating a great tools
+[prasmussen](https://github.com/prasmussen) and [all](https://github.com/gdrive-org/gdrive/graphs/contributors) GDrive CLI contributor for creating a great tools 
